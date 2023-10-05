@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b347e1aa9f68a354fbeaa82809787050
+guid: 10ceb5a1581815e418c333017fcd56bb
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -107,7 +107,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: characterleft_0
+      name: character_up_0
       rect:
         serializedVersion: 2
         x: 0
@@ -121,14 +121,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 73f1789a0e9eb3448ae31af6dd578159
-      internalID: 1819192454
+      spriteID: 86a803d41e992ea4cb21e3a1536eeacb
+      internalID: 2048200224
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: characterleft_1
+      name: character_up_1
       rect:
         serializedVersion: 2
         x: 32
@@ -142,14 +142,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8006b6aec9b0ec7449efbd96efcd8667
-      internalID: -1913905202
+      spriteID: cdd478468e14004429bac4ac1f9c1265
+      internalID: -957326625
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: characterleft_2
+      name: character_up_2
       rect:
         serializedVersion: 2
         x: 0
@@ -163,14 +163,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9414f1c6927370a44982537ba7218411
-      internalID: 1442446050
+      spriteID: 31958447266fe2d47a3cfe771cb194f8
+      internalID: -736963201
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: characterleft_3
+      name: character_up_3
       rect:
         serializedVersion: 2
         x: 32
@@ -184,8 +184,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a99fbd094b1c94f47901242854161fe4
-      internalID: -2031749216
+      spriteID: c4d4702acf627ae4b969217a92611038
+      internalID: -904153002
       vertices: []
       indices: 
       edges: []
@@ -201,10 +201,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      characterleft_0: 1819192454
-      characterleft_1: -1913905202
-      characterleft_2: 1442446050
-      characterleft_3: -2031749216
+      character_up_0: 2048200224
+      character_up_1: -957326625
+      character_up_2: -736963201
+      character_up_3: -904153002
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
